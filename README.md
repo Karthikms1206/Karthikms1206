@@ -60,7 +60,7 @@
 
 ## 📫 Contact
 
-- GitHub: https://github.com/mskarthik298-ops 
+- GitHub: https://github.com/Karthikms1206 
 - Email: mskarthik298@gmail.com  
 - LinkedIn: https://www.linkedin.com/in/karthik-m-s-4a3b40256/
 
