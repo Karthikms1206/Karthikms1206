@@ -49,28 +49,21 @@
 
 ---
 
-## 📊 GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true\&theme=default)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME\&layout=compact)
-
----
-
 ## 📂 Projects
 
-Quantum Secure Email Client Application
-The traditional email services are based on classical cryptographic methods (RSA, ECC, AES), which are susceptible to attacks by future quantum computers. When large-scale quantum computers are available, the current encryption algorithms can be easily compromised, resulting in confidentiality and security breaches of sensitive communications. There is an urgent requirement for a quantum secure email client that provides long-term confidentiality and security.
+### Quantum Secure Email Client Application
 
+   The traditional email services are based on classical cryptographic methods (RSA, ECC, AES), which are susceptible to attacks by future quantum computers. When large-scale quantum computers are available, the current encryption algorithms can be easily compromised, resulting in confidentiality and security breaches of sensitive communications. There is an urgent requirement for a quantum secure email client that provides long-term confidentiality and security.
 
 
 ---
 
-## 🌐 Connect With Me
+## 📫 Contact
 
-* LinkedIn: https://www.linkedin.com/in/karthik-m-s-4a3b40256/
-* Email: karthikms298@gmail.com
+- GitHub: https://github.com/mskarthik298-ops 
+- Email: mskarthik298@gmail.com  
+- LinkedIn: https://www.linkedin.com/in/karthik-m-s-4a3b40256/
 
----
+------
 
 ⭐ *“Code. Learn. Build. Repeat.”*
