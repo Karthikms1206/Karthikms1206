@@ -59,11 +59,10 @@
 
 ## 📂 Projects
 
-Here are some of the projects I’ve worked on:
+Quantum Secure Email Client Application
+The traditional email services are based on classical cryptographic methods (RSA, ECC, AES), which are susceptible to attacks by future quantum computers. When large-scale quantum computers are available, the current encryption algorithms can be easily compromised, resulting in confidentiality and security breaches of sensitive communications. There is an urgent requirement for a quantum secure email client that provides long-term confidentiality and security.
 
-* 🔹 **Project 1:** Short description of your project
-* 🔹 **Project 2:** Short description of your project
-* 🔹 **Project 3:** Short description of your project
+
 
 ---
 
