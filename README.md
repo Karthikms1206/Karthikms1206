@@ -1,4 +1,4 @@
-# Hi there 👋 I'm Karthik M S
++# Hi there 👋 I'm Karthik M S
 
 💻 **Aspiring Java Full Stack Developer**
 🚀 Passionate about building scalable web applications and continuously learning new technologies.
@@ -55,7 +55,9 @@
 
    The traditional email services are based on classical cryptographic methods (RSA, ECC, AES), which are susceptible to attacks by future quantum computers. When large-scale quantum computers are available, the current encryption algorithms can be easily compromised, resulting in confidentiality and security breaches of sensitive communications. There is an urgent requirement for a quantum secure email client that provides long-term confidentiality and security.
 
+### Image Recognition Based Smart Chatbot
 
+   The Image Recognition Based Smart Chatbot is an intelligent system that combines image recognition technology and chatbot communication to provide automated responses based on images and user queries. The main goal of this project is to allow users to upload or capture an image, and the chatbot will analyze the image, identify objects in it, and provide useful information or answers related to that image.
 ---
 
 ## 📫 Contact
